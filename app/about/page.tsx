@@ -15,7 +15,7 @@ export default function AboutPage() {
       <section className="relative py-24 sm:py-28 md:py-32 lg:py-40 overflow-hidden">
         {/* Background Image */}
         <div className="absolute inset-0 z-0">
-          <Image src="/teachers-annajih.png" alt="Tim Pengajar Yayasan Annajih" fill className="object-cover" priority />
+          <Image src="/abt2.jpeg" alt="Tim Pengajar Yayasan Annajih" fill className="object-cover" priority />
           <div className="absolute inset-0 bg-gradient-to-br from-slate-900/85 via-slate-800/80 to-amber-900/70" />
         </div>
         <div className="container mx-auto px-4 sm:px-6 relative z-10">
