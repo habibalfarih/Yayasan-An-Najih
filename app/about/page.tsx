@@ -65,7 +65,7 @@ export default function AboutPage() {
                 untuk mencapai potensi terbaiknya sebagai Muslim.
               </p>
               <p className="text-lg text-muted-foreground leading-relaxed">
-                Dengan ukuran kelas kecil dan kurikulum yang menyeimbangkan keunggulan akademik serta pembentukan
+                Dengan ukuran kelas yang nyaman dan kurikulum yang menyeimbangkan keunggulan akademik serta pembentukan
                 karakter Islami, kami menyiapkan anak untuk sukses di dunia dan akhirat.
               </p>
             </div>
